@@ -10,7 +10,7 @@ This issue tracker is intended to be low-to-medium traffic. Here are some propos
 3. Discussing conferences
 
 We hope that by removing these discussions from the high-traffic
-[ESMValGroup/ESMValTool](https://github.com/ESMValGroup/ESMValTool/issues) issue tracker that more people
+[ESMValGroup/ESMValTool](https://github.com/ESMValGroup/ESMValTool/issues) issue tracker more people
 will feel comfortable subscribing to them.
 
 Tech lead team meetings
