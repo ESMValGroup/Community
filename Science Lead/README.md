@@ -8,5 +8,5 @@ The science lead team can be contacted
 if you have a question for the team or would like to join one of the bi-monthly meetings.
 
 Past meetings:
-  - [2021-07-06](20210706.md)
-  - [2021-10-25](20211025.md)
+  - [2021-07-06](Minutes/20210706.md)
+  - [2021-10-25](Minutes/20211025.md)
