@@ -37,3 +37,8 @@ Tech lead team meetings
 -----------------------
 
 More information about the technical lead team meetings can be found in [Tech Lead](Tech%20Lead/README.md).
+
+Science lead team meetings
+--------------------------
+
+Meeting notes from the science lead team meetings can be found in [Science Lead](Science%20Lead/README.md).
