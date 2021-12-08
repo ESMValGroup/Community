@@ -42,3 +42,11 @@ Science lead team meetings
 --------------------------
 
 Meeting notes from the science lead team meetings can be found in [Science Lead](Science%20Lead/README.md).
+
+Cross team meetings
+--------------------------
+
+Meeting notes from the cross team meetings can be found in [Cross Team](Cross%20Team/README.md).
+
+
+
