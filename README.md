@@ -30,7 +30,7 @@ User engagement team meetings
 -----------------------------
 
 The user engagement team can be contacted at esmvaltool_user_engagement_team@listserv.dfn.de. 
-Team meeting minutes can be found in [User Engagement Lead](User%20Engagement%Lead).
+Team meeting minutes can be found in [User Engagement Lead](User%20Engagement%Lead/README.md).
 
 
 Tech lead team meetings
