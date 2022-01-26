@@ -29,9 +29,9 @@ Calendar invitations to the meeting are sent to the mailing list, join it [here]
 User engagement team meetings
 -----------------------------
 
-The user engagement team can be contacted at esmvaltool_user_engagement_team@listserv.dfn.de
+The user engagement team can be contacted at esmvaltool_user_engagement_team@listserv.dfn.de. 
+Team meeting minutes can be found in [User Engagement Lead](User%20Engagement%Lead).
 
-TODO: Add a link to meeting notes here
 
 Tech lead team meetings
 -----------------------
