@@ -36,11 +36,13 @@ Team meeting minutes can be found in [User Engagement Lead](User%20Engagement%20
 Tech lead team meetings
 -----------------------
 
+The technical lead team can be contacted at esmvaltool_tech_lead_team@listserv.dfn.de. 
 More information about the technical lead team meetings can be found in [Tech Lead](Tech%20Lead/README.md).
 
 Science lead team meetings
 --------------------------
 
+The scientific lead team can be contacted at esmvaltool_scientific_lead_team@listserv.dfn.de.
 Meeting notes from the science lead team meetings can be found in [Science Lead](Science%20Lead/README.md).
 
 Cross team meetings
