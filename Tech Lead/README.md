@@ -10,5 +10,5 @@ if you have a question for the team or would like to join one of the bi-monthly 
 Current convener is Valeriu Predoi.
 
 Past meetings:
-  - [2021-09-20](20210920.md)
-  - [2022-02-11](20220211.md)
+  - [2021-09-20](Minutes/20210920.md)
+  - [2022-02-11](Minutes/20220211.md)
