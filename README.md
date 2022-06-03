@@ -51,30 +51,29 @@ Cross team meetings
 Meeting notes from the cross team meetings can be found in [Cross Team](Cross%20Team/README.md).
 
 
-ESMValTool Presentations
+Presentations
 --------------------------
 
-|    Date     |        Title                   |    Venue/Audience    |    Presenter     |   Link  to material/ announcement     |
-|:-------------:|:-----------------------:|:---------------------:|:-----------------:|:--------------------------------------:|
-|  2022-06-13  |Introduction to ESMValTool: webinar| IS-ENES3|  Klaus  |   https://is.enes.org/events/introduction-to-esmvaltool-a-tool-for-evaluation-of-climate-model-data-webinar-and-workshop|
+|    Date      |        Title                      |    Venue/Audience    |    Presenter     |   Link  to material/ announcement     |
+|:-------------|:---------------------------------:|:--------------------:|:----------------:|:-------------------------------------:|
+|  2022-06-13  |Introduction to ESMValTool: webinar| IS-ENES3             |  Klaus           |  https://is.enes.org/events/introduction-to-esmvaltool-a-tool-for-evaluation-of-climate-model-data-webinar-and-workshop|
 |  2021-10-07  |Research software and beyond - ESMValTool: a community and FAIR software for evaluations of Earth system models| Workshop on Sustainable Software Sustainability|  Sarah  |   https://wosss.org/wosss21/agenda#session-2 |
 |  2021-09-07  |ESMValTool : Earth System Model Evaluation Tool and Tutorial |NCEO Session on EO for earth system model evaluation at the EO Week 2021  | Ranjini | https://www.eoweek2021.uk/|
-| 2021-06-24 |ESMValTool User Engagement|Met Office UK ESMValTool Coffee Morning|Ranjini |                                       |
-| 2021-05-18 |Earth System Model Evaluation Tool (ESMValTool) : analyzing CMIP data made easy|COP26 Energy-Climate Hackathon lightning talk|Ranjini |                                       |
-| 2020-11-17 |An Introduction to ESMValTool|NCAS/NCEO/MOHC Joint Forum : Bringing together observations and models to improve our simulations of the coupled Earth System.|Ranjini |                                       |
-| 2020-04-21 |ESMValTool: A Community driven tool for climate model evaluation and analysis.|UK CMIP6 Worksho|Valeriu | https://ukesm.ac.uk/cmip6/uk-cmip6-analysis-workshop-20-21-april-2020-met-office-exeter/ |
-| 2020-06-16 |ESMValTool Progress and Updates|UKESM General Assembly |Ranjini, Lee, Valeriu |https://ukesm.ac.uk/ukesm-general-assembly-16-17-june-2020/|
-| 2020-01-08 |ESMValTool and NCEO Data|NCEO Data Meeting|Ranjini |                                       |
-| 2019-06-00 |ESMValTool for model evaluation|JULES Evaluation Meeting|Ranjini |                                       |
-| 2018-07-09 |ESMValTool: Diagnostics and Metrics for Earth System Model Evaluation|UKESM LTSM Project Annual Meeting |Ranjini, Valeriu | https://ukesm.ac.uk/wp-content/uploads/2018/07/UKESM-LTSM-GA2018-agenda_vfinalTalks.pdf|
+|  2021-06-24  |ESMValTool User Engagement|Met Office UK ESMValTool Coffee Morning|Ranjini |                                       |
+|  2021-05-18  |Earth System Model Evaluation Tool (ESMValTool): analyzing CMIP data made easy|COP26 Energy-Climate Hackathon lightning talk|Ranjini |                                       |
+|  2020-11-17  |An Introduction to ESMValTool|NCAS/NCEO/MOHC Joint Forum: Bringing together observations and models to improve our simulations of the coupled Earth System.|Ranjini |                                       |
+|  2020-04-21  |ESMValTool: A Community driven tool for climate model evaluation and analysis.|UK CMIP6 Worksho|Valeriu |https://ukesm.ac.uk/cmip6/uk-cmip6-analysis-workshop-20-21-april-2020-met-office-exeter/ |
+|  2020-06-16  |ESMValTool Progress and Updates|UKESM General Assembly |Ranjini, Lee, Valeriu |https://ukesm.ac.uk/ukesm-general-assembly-16-17-june-2020/|
+|  2020-01-08  |ESMValTool and NCEO Data|NCEO Data Meeting|Ranjini |                                       |
+|  2019-06-00  |ESMValTool for model evaluation|JULES Evaluation Meeting|Ranjini |                                       |
+|  2018-07-09  |ESMValTool: Diagnostics and Metrics for Earth System Model Evaluation|UKESM LTSM Project Annual Meeting |Ranjini, Valeriu | https://ukesm.ac.uk/wp-content/uploads/2018/07/UKESM-LTSM-GA2018-agenda_vfinalTalks.pdf|
 
 
-
-ESMValTool Training events
+Training events
 --------------------------
 
 |    Date    |        Title                   |    Venue/Audience/ ~No. of  attendees   |    Instructor    |   Link  to material/ announcement     |
-|-----------:|:------------------------------:|:---------------------|:-----------------|:--------------------------------------|
+|:-----------:|:------------------------------:|:---------------------|:-----------------|:--------------------------------------:|
 | 2022-06-27 | Introduction to ESMValTool: a tool for evaluation of climate model data, workshop|  IS-ENES3,   |    Remi   |https://is.enes.org/events/introduction-to-esmvaltool-a-tool-for-evaluation-of-climate-model-data-webinar-and-workshop|
 | 2022-05-25 | Earth System Model Evaluation with ESMValTool in the Jupyter notebook|  EGU22, ~40  |    Bouwe, Sarah, Klaus, Peter   |https://meetingorganizer.copernicus.org/EGU22/session/43187|
 | 2022-03-00 | Tutorial|   Online (4C project), ~18  |    Birgit, Manuel, Remi             |                                       |
