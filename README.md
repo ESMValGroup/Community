@@ -56,7 +56,7 @@ Presentations
 
 |    Date      |        Title                      |    Venue/Audience    |    Presenter     |   Link  to material/ announcement     |
 |:-------------|:---------------------------------:|:--------------------:|:----------------:|:-------------------------------------:|
-|  2022-06-13  |Introduction to ESMValTool: webinar| IS-ENES3             |  Klaus           |  https://is.enes.org/events/introduction-to-esmvaltool-a-tool-for-evaluation-of-climate-model-data-webinar-and-workshop|
+|  2022-06-13  |Introduction to ESMValTool: webinar| IS-ENES3             |  Klaus [@zklaus](https://github.com/zklaus)          |  https://is.enes.org/events/introduction-to-esmvaltool-a-tool-for-evaluation-of-climate-model-data-webinar-and-workshop|
 |  2021-10-07  |Research software and beyond - ESMValTool: a community and FAIR software for evaluations of Earth system models| Workshop on Sustainable Software Sustainability|  Sarah  |   https://wosss.org/wosss21/agenda#session-2 |
 |  2021-09-07  |ESMValTool : Earth System Model Evaluation Tool and Tutorial |NCEO Session on EO for earth system model evaluation at the EO Week 2021  | Ranjini | https://www.eoweek2021.uk/|
 |  2021-06-24  |ESMValTool User Engagement|Met Office UK ESMValTool Coffee Morning|Ranjini |                                       |
