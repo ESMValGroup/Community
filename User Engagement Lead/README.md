@@ -6,6 +6,16 @@ Information on the User Engagement team meetings can be found here.
 The User Engagement  team can be contacted
 [here](https://github.com/orgs/ESMValGroup/teams/userengagementteam). We meet 
 roughly every two months and welcome all users to attend. Meeting information is 
-posted on the main [ESMValTool Github page](https://github.com/ESMValGroup/ESMValTool/issues). 
+posted [here](https://github.com/ESMValGroup/Community/discussions). 
 
-Our meeting notes are [here](https://docs.google.com/document/d/1a99Zp2gYFOiFuY1Ln3PM2CyO5FBp79Ks83jg3UcbIVk/edit?usp=sharing).
+Meeting notes
+-------------
+  - [2020-11-24](Minutes/20201124.md)
+  - [2021-10-09](Minutes/20210209.md)
+  - [2021-04-23](Minutes/20210423.md)
+  - [2021-06-29](Minutes/20210629.md)
+  - [2021-09-06](Minutes/20210906.md)
+  - [2021-11-23](Minutes/20211123.md)
+  - [2022-02-21](Minutes/20220221.md)
+  - [2022-04-81](Minutes/20220428.md)
+  - [2022-08-22](Minutes/20220822.md)
