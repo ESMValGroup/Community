@@ -16,3 +16,4 @@ Past meetings:
   - [2022-06-23](Minutes/20220623.md)
   - [2022-09-23 v2.6 release retrospective](Minutes/20220923.md)
   - [2022-09-30](Minutes/20220930.md)
+  - [2022-11-08](Minutes/20221108.md)
