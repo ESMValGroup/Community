@@ -1,0 +1,60 @@
+# 7th cross-team meeting, 5 December 2022, 11-12am CET
+
+## Action log
+| ID | Owner | Action |
+|-|-|-|
+| 1.6 | Alistair | Wrapping up the discussion on backward compatibility |
+| 1.7 | Alistair, Birgit, Ranjini, Lisa | Recurring action: being on the lookout for user engagement funding opportunities |
+| 5.1 | Alistair | Progress preparation for implementation of CLA assistant | 
+| 5.2 | Alistair | Recurring action until CA is signed: keep progressing discussions with partners on CA | 
+| 5.3 | Birgit | Create first draft of work plan using workshop notes (GitHub discussions) |
+| 7.1 | Ranjini | Contact Rémi regarding a GitHub account for several different users |
+| 7.2 | Alistair | Get a central GitHub account set up for CLA |
+| 7.3 | Alistair | Inform ENES-RI consortium about new Horizon Europe calls |
+| 7.4 | Klaus | Get in contact with EC-Earth consortium regarding new Horizon Europe calls |
+| 7.5 | all | Check Horizon Europe infrastructure call document for funding opportunities |
+| 7.6 | Alistair | Set up meeting with Ranjini and Colin regarding the CA |
+
+
+
+## Agenda
+1. Action items from last meeting
+2. Upcoming Horizon Europe infrastructure call - ENES-RI engagement, ESMValTool priorities
+3. Getting permission to redistribute CMORised Tier 3 datasets
+4. General update on consortium agreement & planning for steering group
+5. Date of next meeting
+
+
+## Actions from last meeting
+| ID | Owner | Action | Report & new status |
+|-|-|-|-|
+| 1.6 | Alistair | Wrapping up the discussion on backward compatibility | This war worked on during the Workshop in October. Draft pull request was opened for the documentation for the community to comment on. Might be ready to be merged and added to release of v2.8. Keep action open until the policy is finalised. |
+| 1.7 | Alistair, Birgit, Ranjini, Lisa | Being on the lookout for user engagement funding opportunities | Recurring action. Ranjini mentioned small calls for open research calls in the UK (would be for small project like fixing the documentation, etc.). She will forward the calls to the Cross Team members for everybody to evaluate if this would be a funding option. |
+| 5.1 | Alistair | Progress preparation for implementation of CLA assistant | The problems regarding the ownership are still not totally resolved. Ranjini will contact Rémi regarding the possibility of having a GitHub user with several different email addresses. Alistair will then create the GitHub account for the CLA. Action continued. |
+| 5.2 | Alistair | Keep progressing discussions with partners on CA | Recurring action. See below. |
+| 5.3 | Birgit | Create first draft of work plan using workshop notes (GitHub discussions) | To be done |
+
+
+## Upcoming Horizon Europe infrastructure call - ENES-RI engagement, ESMValTool priorities
+- New calls are open for Horizon Europe projects, including some about research infrastructure
+- It was mentioned that it would be helpful to think about new developments that we want to implement in the Tool and then check if we can make use of the call to actually get funding for them.
+- It was also mentioned that we could/should think about getting involved in the workflow of digital twins
+- Two calls seem especially interesting for a possible ESMValTool involvement (HORIZON-INFRA-2024-TECH-01-01 and HORIZON-INFRA-2024-TECH-01-03; https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/research-infrastructures_en)
+- AI Alistair: get in touch with ENES-RI to inform them about the new call
+- AI Klaus: check with EC-Earth consortium about their plan regarding the climate side of a digital twin
+- Idea for the next ESMValTool workshop: have a discussion about data storage options (e.g. data lake, ESGF, ...) and how we prepare the ESMValTool to access these options. Maybe we should invite somebody to talk about this?
+- AI all: check the Horizon Europe document for possible (other) interesting calls
+
+
+## Getting permission to redistribute CMORised Tier 3 datasets
+- Birgit and Rémi from DLR have started contacting Tier 3 data providers to obtain permission to host the data in a central HPC data pool (e.g. Levante, Jasmin, etc.) for ESMValTool users. So far responses have been very positive, i.e. the data can be added to the Tier 2 data pool on the HPC systems. 
+- Ranjini reported that the newly reorganized Tier 3 data distribution arrangements are part of a wider effort regarding the info about observations for the ESMValTool. A document has been circulated that describes all kinds of information about observations and their CMORization between Ranjini, Rémi and Birgit, and will be opened as a discussion document to the wider community on GitHub soon. 
+
+
+## General update on consortium agreement & planning for steering group
+- DLR has provided feedback on the CA draft. There are some remaining questions. MetOffice and DLR legal departments will have a chat about suggested changes to the CA to hopefully resolve them.
+- Alistair is planning a brief meeting with Ranjini and Colin soon about the progress of NERC to sign the CA.
+
+
+## Date of next meeting
+30th January 2023. 10-11am GMT, 11-12am CET.
