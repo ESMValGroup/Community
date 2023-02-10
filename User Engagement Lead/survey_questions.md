@@ -7,13 +7,9 @@ discovering users’ needs.  It is meant for the users of ESMValTool in all leve
 of expertise. Some criteria to design the questions:
 
 - It does not take more than 10 (?) minutes
-
 - It does not have overlapping questions
-
 - It does not include questions with yes/no answers
-
 - It does not collect personal data, but it has some profiling questions
-
 - It covers different aspects of ESMValTool like application, usage, documentation and community
 
 The survey can be implemented in a survey app like surveymonkey that does not
