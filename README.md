@@ -56,6 +56,7 @@ Presentations
 
 |    Date      |        Title                      |    Venue/Audience    |    Presenter     | Link  to material/ announcement |
 |--------------|-----------------------------------|----------------------|------------------|---------------------------------|
+|  2022-12-15  | Evaluation of Native Earth System Model Output with ESMValTool | AGU Fall Meeting 2022 (Chicago, IL, USA) | Manuel [@schlunma](https://github.com/schlunma)  | |
 |  2022-09-05  |ESMValTool​: A successful open-source software for evaluations of Earth system models​| Lorentz workshop: Boosting (sub) seasonal forecasts with Explainable AI​, Lorentz Center, Leiden University| Sarah [@SarahAlidoost](https://github.com/SarahAlidoost)  |  [pdf](./files/Alidoost_esmvaltool_lorentz_workshop_092022.pdf)|
 |  2022-06-13  |Introduction to ESMValTool: webinar| IS-ENES3             |  Klaus [@zklaus](https://github.com/zklaus)          |  [webpage](https://is.enes.org/training-detailed/#esmvaltool-training) and [recording](https://www.youtube.com/watch?v=3tzU2zcCxUU)|
 |  2021-10-07  |Research software and beyond - ESMValTool: a community and FAIR software for evaluations of Earth system models| Workshop on Sustainable Software Sustainability|  Sarah [@SarahAlidoost](https://github.com/SarahAlidoost) |    [webpage](https://wosss.org/wosss21/agenda#session-2) |
