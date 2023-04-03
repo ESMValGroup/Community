@@ -23,7 +23,7 @@ Hi! We in [ESMValGroup](https://www.esmvaltool.org/), would love to hear about
 your research and experiences using ESMValTool. Here, there are a few questions
 which help to create your story. Your answers will help us to improve ESMValTool
 and hence enhance the science that you conduct. All responses are recorded
-anonymously. Let’s being:
+anonymously. Let’s begin:
 
 **Describe your research/case study and challenges:**
 
