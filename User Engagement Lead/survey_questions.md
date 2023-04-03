@@ -34,12 +34,11 @@ anonymously. Let’s begin:
 
 **Software:**
 
-ESMValTool provides many features and functions to analyze data for Earth system
-models.
-[Here](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/preprocessor.html#preprocessor)
-you can find a list of preprocessors.
+ESMValTool provides many recipes (scientific workflows), features and functions to analyze data for Earth system
+models. See the [list of preprocessors](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/preprocessor.html#preprocessor) 
+and [list of recipes](https://docs.esmvaltool.org/en/latest/recipes/index.html).
 
-4. Which features/functions in ESMValTool do you think are most useful for your
+4. Which recipes/preprocessors in ESMValTool do you think are most useful for your
 research/case study?
 5. How satisfied are you with the software's:
     - Ease of use (1-10)
