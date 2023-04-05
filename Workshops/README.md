@@ -1,6 +1,7 @@
 # ESMValTool workshops
 
-The `Workshops` directory contains information related to
-[ESMValTool workshops](https://esmvaltool.org/meetings/).
+Information about ESMValTool workshops
+[ESMValTool workshops](https://esmvaltool.org/meetings/)
+can be found here.
 
 Please add any useful workshop-related information here! :)
