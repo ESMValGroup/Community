@@ -29,14 +29,14 @@ Calendar invitations to the meeting are sent to the mailing list, join it [here]
 User engagement team meetings
 -----------------------------
 
-The user engagement team can be contacted at esmvaltool_user_engagement_team@listserv.dfn.de. 
+The user engagement team can be contacted at esmvaltool_user_engagement_team@listserv.dfn.de.
 Team meeting minutes can be found in [User Engagement Lead](User%20Engagement%20Lead/README.md).
 
 
 Tech lead team meetings
 -----------------------
 
-The technical lead team can be contacted at esmvaltool_tech_lead_team@listserv.dfn.de. 
+The technical lead team can be contacted at esmvaltool_tech_lead_team@listserv.dfn.de.
 More information about the technical lead team meetings can be found in [Tech Lead](Tech%20Lead/README.md).
 
 Science lead team meetings
@@ -57,7 +57,8 @@ Presentations
 |    Date      |        Title                      |    Venue/Audience    |    Presenter     | Link  to material/ announcement |
 |--------------|-----------------------------------|----------------------|------------------|---------------------------------|
 |  2023-06-15  | Earth System Model Evaluation Tool (ESMValTool): Analyzing CMIP data made easy  |  CACTI Meeting Kiel/Germany (participants of the AerChemMIP, RFMIP, PDRMIP, and RAMIP)  |  Birgit [@hb326](https://github.com/hb326)  |  |
-|  2023-04-05  | NCEO ESMValTool Tutorial (Basic) | National Centre for Earth Observation, UK and the TerraFIRMA project | Ranjini [@rswamina](https://github.com/rswamina) | [presentation](./files/ESMValTool_NCEO_May_2023.pdf) | 
+|  2023-05-10  | Research software and beyond - a community and FAIR software: ESMVaITool for evaluations of Earth system models  | DCC Event: Sustainable Research Software: Challenges & Solutions, University of Groningen, Netherlands | Sarah[@SarahAlidoost](https://github.com/SarahAlidoost) | [presentation](./files/Esmvaltool_DCC_Groningen_10052023.pdf) |
+|  2023-04-05  | NCEO ESMValTool Tutorial (Basic) | National Centre for Earth Observation, UK and the TerraFIRMA project | Ranjini [@rswamina](https://github.com/rswamina) | [presentation](./files/ESMValTool_NCEO_May_2023.pdf) |
 |  2023-03-24  | Climate data analysis with ESMValTool | [NAC 2023](https://nacgeo.nl/) | Bouwe [@bouweandela](https://github.com/bouweandela) | [presentation](./files/Climate%20data%20analysis%20with%20ESMValTool%20-%20NAC%202023.pdf) |
 |  2022-12-15  | Evaluation of Native Earth System Model Output with ESMValTool | AGU Fall Meeting 2022 (Chicago, IL, USA) | Manuel [@schlunma](https://github.com/schlunma)  | |
 |  2022-09-05  |ESMValTool​: A successful open-source software for evaluations of Earth system models​| Lorentz workshop: Boosting (sub) seasonal forecasts with Explainable AI​, Lorentz Center, Leiden University| Sarah [@SarahAlidoost](https://github.com/SarahAlidoost)  |  [pdf](./files/Alidoost_esmvaltool_lorentz_workshop_092022.pdf)|
@@ -80,13 +81,14 @@ Training events
 |    Date        |        Title                   |    Venue/Audience/ ~No. of  attendees   |    Instructor    |   Link  to material/ announcement     |   Category   |
 |----------------|--------------------------------|-----------------------------------------|------------------|---------------------------------------|--------------|
 |   2023-05-30   | ESMValTool workshop | NICEST2, INES-interim, KeyCLIM, ~15 | Yanchun [@YanchunHe](https://github.com/YanchunHe), Alok [@monsieuralok](https://github.com/monsieuralok), Tomas [@TomasTorsvik](https://github.com/TomasTorsvik) | [webpage](https://nordicesmhub.github.io/esmvaltool-workshop/), [material](https://zenodo.org/record/7993930) | Organization |
+|   2023-04-17   | Training workshop: introduction to ESMValTool | ITC, University of Twente, Netherlands, ~25 | Bouwe [@bouweandela](https://github.com/bouweandela), Pranav [@cpranav93](https://github.com/cpranav93), Sarah [@SarahAlidoost](https://github.com/SarahAlidoost) | [webpage](https://www.itc.nl/events/2023/4/633882/training-workshop-introduction-to-esmvaltool) | Organization |
 |   2023-02-14   | Introductory tutorial and processing native model output|  DLR-IPA, ESM department, ~16  |    Birgit [@hb326](https://github.com/hb326), Axel [@axel-lauer](https://github.com/axel-lauer), Manuel [@schlunma](https://github.com/schlunma), Remi [@remi-kazeroni](https://github.com/remi-kazeroni)  | | Research Group  |
 |   2022-06-27   | Introduction to ESMValTool: a tool for evaluation of climate model data, workshop|  IS-ENES3, ~25  |    Remi [@remi-kazeroni](https://github.com/remi-kazeroni), Klaus [@zklaus](https://github.com/zklaus), Manuel [@schlunma](https://github.com/schlunma), Valeriu [@valeriupredoi](https://github.com/valeriupredoi),  Birgit [@hb326](https://github.com/hb326) |[webpage](https://is.enes.org/training-detailed/#esmvaltool-training), [introduction](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESMValTool-Intro-Tutorial-ISENES3-June-2022_v2.pdf) and [material](https://drive.google.com/drive/folders/1oHYFzsJtsFPghPUoi56RAVyV5CP2JEn7)|   |
-| 2022-06-13     | ESMValTool: writing your own diagnostic | Online in CCCma (ECCC), ~12 | Liza[@malininae](https://github.com/malininae)| Internal for ECCC, no public link| Organization | 
+| 2022-06-13     | ESMValTool: writing your own diagnostic | Online in CCCma (ECCC), ~12 | Liza[@malininae](https://github.com/malininae)| Internal for ECCC, no public link| Organization |
 |   2022-05-25   | Earth System Model Evaluation with ESMValTool in the Jupyter notebook|  EGU22, ~40  |    Bouwe [@bouweandela](https://github.com/bouweandela), Sarah [@SarahAlidoost](https://github.com/SarahAlidoost), Carsten [@cehbrecht](https://github.com/cehbrecht), Peter [@Peter9192](https://github.com/Peter9192), and Klaus [@zklaus](https://github.com/zklaus)  |[webpage](https://meetingorganizer.copernicus.org/EGU22/session/43187), [Jupyter notebook and instructions](https://github.com/ESMValGroup/EGU22-short-course) and [slides](https://raw.githubusercontent.com/ESMValGroup/EGU22-short-course/main/esmvaltool_slides_EGU2022_short_course.pdf)|  Conference |
 | 2022-03-00     | Tutorial|   Online (4C project), ~18  |    Birgit [@hb326](https://github.com/hb326), Manuel [@schlunma](https://github.com/schlunma), Remi [@remi-kazeroni](https://github.com/remi-kazeroni)             |                                       | Research Group   |
 | 2022-02-00     | Tutorial|   Online (UKCA), ~12  |    Ranjini [@rswamina](https://github.com/rswamina), Klaus [@zklaus](https://github.com/zklaus), Remi [@remi-kazeroni](https://github.com/remi-kazeroni)           |                                       | Research Group  |
-| 2021-09-13     | How to use ESMValTool? |  Online in CCCma (ECCC),  ~15 | Liza[@malininae](https://github.com/malininae)| Internal for ECCC, no public link | Organization|       
+| 2021-09-13     | How to use ESMValTool? |  Online in CCCma (ECCC),  ~15 | Liza[@malininae](https://github.com/malininae)| Internal for ECCC, no public link | Organization|
 | 2020-07-00     | Tutorial|   Online (Plymouth Marine Labs, UK), ~12  |    Lee [@ledm](https://github.com/ledm), Ranjini [@rswamina](https://github.com/rswamina), Valeriu [@valeriupredoi](https://github.com/valeriupredoi) |                                       | Organization|
 | 2020-07-00     | Tutorial|   Online(UK CMIP6 Analysis Workshop), ~12  |    Lee [@ledm](https://github.com/ledm), Ranjini [@rswamina](https://github.com/rswamina), Valeriu [@valeriupredoi](https://github.com/valeriupredoi) |[pdf](https://ukesm.ac.uk/wp-content/uploads/2020/01/ESMValTool-Advert-UK-CMIP6-Workshop-2020-final.pdf)| Research Group  |
 | 2020-07-00     | Tutorial|   Online (LaunchPad Project Members ), ~13  |    Lee [@ledm](https://github.com/ledm), Ranjini [@rswamina](https://github.com/rswamina), Valeriu [@valeriupredoi](https://github.com/valeriupredoi) |  [webpage](https://futureclimateafrica.org/project/impala/)|  Project|
