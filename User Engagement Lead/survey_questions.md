@@ -35,7 +35,7 @@ anonymously. Let’s begin:
 **Software:**
 
 ESMValTool provides many recipes (scientific workflows), features and functions to analyze data for Earth system
-models. See the [list of preprocessors](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/preprocessor.html#preprocessor) 
+models. See the [list of preprocessors](https://docs.esmvaltool.org/projects/esmvalcore/en/latest/recipe/preprocessor.html#preprocessor)
 and [list of recipes](https://docs.esmvaltool.org/en/latest/recipes/index.html).
 
 4. Which recipes/preprocessors in ESMValTool do you think are most useful for your
@@ -69,11 +69,21 @@ platforms](https://docs.esmvaltool.org/en/latest/introduction.html#support) to
 communicate with users and researchers: mailing list, github issues, discussion
 page.
 
-9. If you have used any of these, please tell us how much do you agree with
+9. Which platform are you familiar with: (multiple questions)
+
+    - [User mailing list](https://docs.esmvaltool.org/en/latest/introduction.html#user-mailing-list)
+    - GitHub issues
+    - Discussion page
+    - ESMValTool Website https://esmvaltool.org/
+    - Twitter https://twitter.com/esmvaltool
+
+10. If you have used any of these, please tell us how much do you agree with
 the following statements?
     - I felt comfortable asking my questions using these platforms. (1-10)
     - I was able to get clear answers to my questions from the community. (1-10)
-10. What suggestions do you have for improvements, or any other relevant input for us?
 
+**Other**
+
+What suggestions do you have for improvements, or any other relevant input for us?
 
 Thank you for helping us to build the ESMValTool that you like.
