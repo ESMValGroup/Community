@@ -66,14 +66,17 @@ Presentations
 |  2021-10-07  |Research software and beyond - ESMValTool: a community and FAIR software for evaluations of Earth system models| Workshop on Sustainable Software Sustainability|  Sarah [@SarahAlidoost](https://github.com/SarahAlidoost) |    [webpage](https://wosss.org/wosss21/agenda#session-2) |
 |  2021-09-07  |ESMValTool : Earth System Model Evaluation Tool and Tutorial |NCEO Session on EO for earth system model evaluation at the EO Week 2021  | Ranjini [@rswamina](https://github.com/rswamina)| Webpage no longer active.|
 |  2021-06-24  |ESMValTool User Engagement|Met Office UK ESMValTool Coffee Morning|Ranjini [@rswamina](https://github.com/rswamina) |                                       |
+|  2021-05-19  | Earth System Model Evaluation Tool (ESMValTool): analyzing CMIP data made easy | DLR Institute for Solar-Terrestrial Physics, Neustrelitz/Germany | Birgit [@hb326](https://github.com/hb326)  | | 
 |  2021-05-18  |Earth System Model Evaluation Tool (ESMValTool): analyzing CMIP data made easy|COP26 Energy-Climate Hackathon lightning talk|Ranjini [@rswamina](https://github.com/rswamina)|                                       |
+|  2021-04-22  | Earth System Model Evaluation Tool (ESMValTool): analyzing CMIP data made easy | Data Science of the Natural Environment Seminar, Lancaster/UK | Birgit [@hb326](https://github.com/hb326)  | | 
+|  2020-12-12  | ESMValCore and ESMValTool: analyzing CMIP data made easy | AGU Fall Meeting (virtually) | Birgit [@hb326](https://github.com/hb326)  | | 
 |  2020-11-17  |An Introduction to ESMValTool|NCAS/NCEO/MOHC Joint Forum: Bringing together observations and models to improve our simulations of the coupled Earth System.|Ranjini  [@rswamina](https://github.com/rswamina)|                                       |
 |  2020-04-21  |ESMValTool: A Community driven tool for climate model evaluation and analysis.|UK CMIP6 Worksho|Valeriu  [@valeriupredoi](https://github.com/valeriupredoi)| [webpage](https://ukesm.ac.uk/cmip6/uk-cmip6-analysis-workshop-20-21-april-2020-met-office-exeter/) |
 |  2020-06-16  |ESMValTool Progress and Updates|UKESM General Assembly |Ranjini [@rswamina](https://github.com/rswamina), Lee [@ledm](https://github.com/ledm), Valeriu [@valeriupredoi](https://github.com/valeriupredoi)| [webpage](https://ukesm.ac.uk/ukesm-general-assembly-16-17-june-2020/)|
 |  2020-01-08  |ESMValTool and NCEO Data|NCEO Data Meeting|Ranjini [@rswamina](https://github.com/rswamina)|                                       |
 |  2019-06-00  |ESMValTool for model evaluation|JULES Evaluation Meeting|Ranjini [@rswamina](https://github.com/rswamina) |                                       |
 |  2018-07-09  |ESMValTool: Diagnostics and Metrics for Earth System Model Evaluation|UKESM LTSM Project Annual Meeting |Ranjini [@rswamina](https://github.com/rswamina), Valeriu [@valeriupredoi](https://github.com/valeriupredoi)| [pdf](https://ukesm.ac.uk/wp-content/uploads/2018/07/UKESM-LTSM-GA2018-agenda_vfinalTalks.pdf)|
-
+|  2018-06-12  | CMIP model evaluation with the Earth System Model Evaluation Tool (ESMValTool) | TriMIPathlon, Reading/UK (participants of AerChemMIP, RFMIP and PDRMIP) | Birgit [@hb326](https://github.com/hb326)  | | 
 
 Training events
 --------------------------
