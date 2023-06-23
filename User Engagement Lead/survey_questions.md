@@ -27,8 +27,8 @@ anonymously. Let’s begin:
 
 **Describe your research/case study and challenges:**
 
-1. Can you describe your research/case study?
-2. Can you underline the challenges in your research/case study?
+1. Can you describe your research/case study with respect to data processing?
+2. Can you underline the challenges in your research/case study with respect data handling?
 3. How would you categorize your expertise level in using ESMValTool? (Beginner,
    competent practitioner, expert)
 
@@ -48,7 +48,7 @@ research/case study?
 **Documentation and tutorial:**
 
 ESMValTool [documentation](https://docs.esmvaltool.org/en/latest/) covers
-different aspects of research: How the code work, how to obtain and process
+different aspects of research: How the code works, how to obtain and process
 data, and what are best practices in developing code. There is also an online
 [tutorial](https://esmvalgroup.github.io/ESMValTool_Tutorial/) that shows not
 only how to run an experiment but also how to develop your own code.
