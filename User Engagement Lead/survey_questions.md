@@ -45,20 +45,31 @@ research/case study?
     - Development workflow (1-10)
     - Reliability (1-10)
 
-**Documentation and tutorial:**
+**Documentation:**
 
 ESMValTool [documentation](https://docs.esmvaltool.org/en/latest/) covers
 different aspects of research: How the code works, how to obtain and process
-data, and what are best practices in developing code. There is also an online
-[tutorial](https://esmvalgroup.github.io/ESMValTool_Tutorial/) that shows not
-only how to run an experiment but also how to develop your own code.
-If you are familiar with documentation and tutorial, please tell us:
+data, and what are best practices in developing code.If you are familiar with
+the documentation, please tell us:
 
 6. What are the most useful parts?
 7. What topics are missing that you want to learn about?
 8. How much do you agree with the following statements?
     - It is easy to find relevant information from the documentation. (1-10)
-    - The instructions in the documentation and tutorial are complete and easy
+    - The instructions in the documentation are complete and easy
+      to follow. (1-10)
+
+**Tutorial:**
+
+There is also an online
+[tutorial](https://esmvalgroup.github.io/ESMValTool_Tutorial/) that shows not
+only how to run an experiment but also how to develop your own code. If you are
+familiar with the tutorial, please tell us:
+
+9. What are the most useful lessons?
+10. What topics are missing that you want to learn about?
+11. How much do you agree with the following statements?
+    - The instructions in the  tutorial are complete and easy
       to follow. (1-10)
     - I can immediately apply what I learned from the tutorial. (1-10)
 
@@ -69,7 +80,7 @@ platforms](https://docs.esmvaltool.org/en/latest/introduction.html#support) to
 communicate with users and researchers: mailing list, github issues, discussion
 page.
 
-9. Which platform are you familiar with: (multiple questions)
+12. Which platform are you familiar with: (multiple questions)
 
     - [User mailing list](https://docs.esmvaltool.org/en/latest/introduction.html#user-mailing-list)
     - GitHub issues
@@ -77,7 +88,7 @@ page.
     - ESMValTool Website https://esmvaltool.org/
     - Twitter https://twitter.com/esmvaltool
 
-10. If you have used any of these, please tell us how much do you agree with
+13. If you have used any of these, please tell us how much do you agree with
 the following statements?
     - I felt comfortable asking my questions using these platforms. (1-10)
     - I was able to get clear answers to my questions from the community. (1-10)
