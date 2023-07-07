@@ -5,9 +5,9 @@ Information about the tech lead team meetings can be found here.
 
 The tech lead team can be contacted
 [here](https://github.com/orgs/ESMValGroup/teams/technical-lead-development-team)
-if you have a question for the team or would like to join one of the bi-monthly meetings (every two months).
+if you have a question for the team or would like to join one of the monthly meetings.
 
-Current convener is Valeriu Predoi.
+Current convener is Valeriu Predoi [@valeriupredoi](https://github.com/valeriupredoi).
 
 Past meetings:
   - [2021-09-20](Minutes/20210920.md)
@@ -22,3 +22,4 @@ Past meetings:
   - [2023-02-28](Minutes/20230228.md)
   - [2023-05-16](Minutes/20230516.md)
   - [2023-06-29](Minutes/20230629.md)
+  - [2023-07-04](Minutes/20230704.md)
