@@ -26,3 +26,4 @@ Past meetings:
   - [2023-08-01](Minutes/20230801.md)
   - 2023-09-05 - this call has been postponed for 19 September 2023
   - [2023-09-19](Minutes/20230919.md)
+  - [2023-10-10](Minutes/20231010.md)
