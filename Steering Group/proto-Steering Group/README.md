@@ -11,7 +11,7 @@ The proto-Steering Group can be contacted via the two Co-PIs.
 
 Meeting notes
 -------------
-  - [20231017](Minutes/20231017.md)
-  - [20231121](Minutes/20231121.md)
-  - [20231219](Minutes/20231219.md)
-  - [20240116](Minutes/20240116.md)
+  - [2023-10-17](Minutes/20231017.md)
+  - [2023-11-21](Minutes/20231121.md)
+  - [2023-12-19](Minutes/20231219.md)
+  - [2024-01-16](Minutes/20240116.md)
