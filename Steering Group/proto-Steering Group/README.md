@@ -1,4 +1,4 @@
-Steering Group Meetings
+proto-Steering Group Meetings
 ==========================
 
 Prior to initiation of the steering group, a proto-Steering Group is developing
