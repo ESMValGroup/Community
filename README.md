@@ -48,7 +48,7 @@ Meeting notes from the science lead team meetings can be found in [Science Lead]
 Proto-Steering Group meetings
 --------------------------
 
-Meeting notes from proto-Steering group meetings can be found in [proto-Steering Group](proto-Steering%20Group/README.md).
+Meeting notes from proto-Steering group meetings can be found in [proto-Steering Group](Steering%20Group/proto-Steering%20Group/README.md).
 
 
 Presentations
