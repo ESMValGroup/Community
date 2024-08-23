@@ -56,6 +56,9 @@ Presentations
 
 |    Date      |        Title                      |    Venue/Audience    |    Presenter     | Link  to material/ announcement |
 |--------------|-----------------------------------|----------------------|------------------|---------------------------------|
+| 2024-07-24   | An Introduction to ESMValTool     | A-RIP Workshop in Boulder/USA; part of a taught tutorial | Birgit [@hb326](https://github.com/hb326)  |  |
+| 2024-07-22   | Earth System Model Evaluation Tool (ESMValTool): Analyzing CMIP-style data made easy  | A-RIP Workshop in Boulder/USA | Birgit [@hb326](https://github.com/hb326)  |  |
+| 2024-07-03   | Earth System Model Evaluation Tool (ESMValTool): Analyzing CMIP-style data made easy  | Seminar at ORNL/Tennessee/USA | Birgit [@hb326](https://github.com/hb326)  |  |
 | 2024-05-21   | An Introduction to ESMValTool     | AI4PEX Project Kick off Meeting | Ranjini [@rswamina](https://github.com/rswamina) | [slides](./files/ESMValTool_Introduction_AI4PEX_May_2024.pdf)
 |  2023-11-09  | Reliable and reproducible Earth System Model data analysis with ESMValTool |  [NCAR Workshop on Correctness and Reproducibility for Climate and Weather Software](https://ncar.github.io/correctness-workshop/) | Valeriu [@valeriupredoi](https://github.com/valeriupredoi) | [slides](https://ncar.github.io/correctness-workshop/assets/day1/6_Valeriu_Predoi.pdf)
 |  2023-09-05  | Analysis-ready climate data with ESMValCore and ESMValTool| [EMS2023](https://ems2023.eu/) | Peter [@Peter9192](https://github.com/Peter9192) | [abstract](https://doi.org/10.5194/ems2023-497)
