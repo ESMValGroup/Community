@@ -56,6 +56,7 @@ Presentations
 
 |    Date      |        Title                      |    Venue/Audience    |    Presenter     | Link  to material/ announcement |
 |--------------|-----------------------------------|----------------------|------------------|---------------------------------|
+| 2024-09-02   | Earth System Model Evaluation Tool (ESMValTool): Analyzing CMIP-style data made easy | 2024 ACCESS Community Workshop, Canberra/Australia (invited; remotely)  | Birgit [@hb326](https://github.com/hb326)  |  |
 | 2024-07-24   | An Introduction to ESMValTool     | A-RIP Workshop in Boulder/USA; part of a taught tutorial | Birgit [@hb326](https://github.com/hb326)  |  |
 | 2024-07-22   | Earth System Model Evaluation Tool (ESMValTool): Analyzing CMIP-style data made easy  | A-RIP Workshop in Boulder/USA | Birgit [@hb326](https://github.com/hb326)  |  |
 | 2024-07-03   | Earth System Model Evaluation Tool (ESMValTool): Analyzing CMIP-style data made easy  | Seminar at ORNL/Tennessee/USA | Birgit [@hb326](https://github.com/hb326)  |  |
