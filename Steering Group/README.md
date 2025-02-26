@@ -1,12 +1,10 @@
-Steering Group Meetings
-==========================
+# Steering Group Meetings
 
-When the ESMValTool consortium is formally initiated, it will be overseen by a
-Steering Group.
-Information on the Steering Group meetings will appear here.
+- The ESMValTool consortium is overseen by the Steering Group who are responsible for developing strategy and coordinating proposals. (For more detail refer to [ESMValTool Governance](https://esmvaltool.org/assets/pdf/ESMValTool_Governance.pdf)).
+- Information on the Steering Group meetings appears here.
+- The Steering Group can be contacted via the two Co-PIs.
 
-Prior to initiation of the steering group, a proto-Steering Group is developing
-strategy and coordinating proposals. Information on that group can be found in 
-[proto-Steering Group](proto-Steering%20Group/README.md)
+The Steering Group succeeded the [proto-Steering Group](../Steering%20Group/proto-Steering%20Group/README.md) which itself succeeded a smaller [Cross Team](../Steering%20Group/Cross%20Team/README.md) group.
 
-The (proto-)Steering Group can be contacted via the two Co-PIs.
+## Meeting notes
+  - [2025-01-28](Minutes/20250128.md)
