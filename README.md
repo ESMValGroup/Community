@@ -56,6 +56,7 @@ Presentations
 
 |    Date      |        Title                      |    Venue/Audience    |    Presenter     | Link  to material/ announcement |
 |--------------|-----------------------------------|----------------------|------------------|---------------------------------|
+| 2025-03-21   | Optimizing the computational Performance of the Earth System Model Evaluation Tool with Dask | [NWO NAC 2025](https://nwonac.nl/) | Bouwe [@bouweandela](https://github.com/bouweandela)  | [poster](https://doi.org/10.5281/zenodo.15088006) |
 | 2024-09-02   | Earth System Model Evaluation Tool (ESMValTool): Analyzing CMIP-style data made easy | 2024 ACCESS Community Workshop, Canberra/Australia (invited; remotely)  | Birgit [@hb326](https://github.com/hb326)  |  |
 | 2024-07-24   | An Introduction to ESMValTool     | A-RIP Workshop in Boulder/USA; part of a taught tutorial | Birgit [@hb326](https://github.com/hb326)  |  |
 | 2024-07-22   | Earth System Model Evaluation Tool (ESMValTool): Analyzing CMIP-style data made easy  | A-RIP Workshop in Boulder/USA | Birgit [@hb326](https://github.com/hb326)  |  |
