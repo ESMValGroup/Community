@@ -45,10 +45,10 @@ Science lead team meetings
 The scientific lead team can be contacted at esmvaltool_scientific_lead_team@listserv.dfn.de.
 Meeting notes from the science lead team meetings can be found in [Science Lead](Science%20Lead/README.md).
 
-Proto-Steering Group meetings
+Steering Group meetings
 --------------------------
 
-Meeting notes from proto-Steering group meetings can be found in [proto-Steering Group](Steering%20Group/proto-Steering%20Group/README.md).
+Meeting notes from Steering Group meetings can be found in [Steering Group](Steering%20Group/README.md).
 
 
 Presentations
