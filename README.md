@@ -93,6 +93,7 @@ Training events
 
 |    Date        |        Title                   |    Venue/Audience/ ~No. of  attendees   |    Instructor    |   Link  to material/ announcement     |   Category   |
 |----------------|--------------------------------|-----------------------------------------|------------------|---------------------------------------|--------------|
+|   2025-06-11   | ESMValTool tutorial            | University of Stockholm, Sweden, ~12    | Birgit [@hb326](https://github.com/hb326), Julien [@jlenh](https://github.com/jlenh)  | | Students, early career researchers  | 
 |   2024-07-24   | ESMValTool tutorial            | A-RIP Workshop, Boulder, USA, ~12       | Birgit [@hb326](https://github.com/hb326), Manuel [@schlunma](https://github.com/schlunma) (online), Axel [@axel-lauer](https://github.com/axel-lauer) (online) | | Research Group  | 
 |   2024-03-12--2024-03-15   | ESMValTool Hackathon | DLR, Munich, Germany, ~25 | Manuel [@schlunma](https://github.com/schlunma), Axel [@axel-lauer](https://github.com/axel-lauer), Birgit [@hb326](https://github.com/hb326), Lisa [@LisaBock](https://github.com/lisabock) | [GitHub project](https://github.com/orgs/ESMValGroup/projects/22) | Organization |
 |   2023-10-29   | ESMValTool tutorial            | WCRP/SPARC Training school on “Climate Data Analysis and Artificial Intelligence in the Global South”, Kigali, Rwanda, ~30 | Birgit [@hb326](https://github.com/hb326) | | Early career researchers (mostly from Africa) |
