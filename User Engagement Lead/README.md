@@ -11,6 +11,7 @@ posted [here](https://github.com/ESMValGroup/Community/discussions).
 Meeting notes
 -------------
 
+  - [2025-10-20](Minutes/20251020.md)
   - [2025-04-04](Minutes/20250404.md)
   - [2025-02-21](Minutes/20250221.md)
   - [2024-01-19](Minutes/20241119.md)
@@ -30,6 +31,7 @@ Meeting notes
   - [2021-04-23](Minutes/20210423.md)
   - [2021-10-09](Minutes/20210209.md)
   - [2020-11-24](Minutes/20201124.md)
+    
  
   
   
