@@ -13,3 +13,4 @@ The Steering Group succeeded the [proto-Steering Group](../Steering%20Group/prot
   - [2025-07-29](Minutes/20250729.md)
   - [2025-09-30](Minutes/20250930.md)
   - [2025-11-25](Minutes/20251125.md)
+  - [2026-01-27](Minutes/20260127.md)
