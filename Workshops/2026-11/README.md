@@ -1,1 +1,4 @@
-README file for November 2026 ESMValTool (online) workshop.
+# ESMValTool workshop: November 2026
+
+https://github.com/ESMValGroup/Community/discussions/315
+provides more information about this workshop.
